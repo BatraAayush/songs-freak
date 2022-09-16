@@ -1,0 +1,30 @@
+/* .App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+} */
+
+.App {
+  font-family: sans-serif;
+  margin: auto;
+  max-width: 600px;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 0.6rem;
+  width: 6rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.list {
+  list-style-type: none;
+  border: 1px solid;
+  border-color: #e5e7eb;
+  margin: 1rem;
+  width: 40%;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+}
